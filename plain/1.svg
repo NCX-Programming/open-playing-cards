@@ -3,7 +3,6 @@
 <!-- Created with Vectornator (http://vectornator.io/) -->
 <svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 180 252" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
-<path d="M16 0L164 0C172.837 0 180 7.16344 180 16L180 236C180 244.837 172.837 252 164 252L16 252C7.16344 252 0 244.837 0 236L0 16C0 7.16344 7.16344 0 16 0Z" id="Fill"/>
 <clipPath id="TextBounds">
 <rect height="39" width="15.5938" x="8" y="3"/>
 </clipPath>
@@ -15,14 +14,8 @@
 </clipPath>
 </defs>
 <g id="Layer-1" vectornator:layerName="Layer 1">
-<g opacity="1">
-<use fill="#ffffff" fill-rule="nonzero" stroke="none" xlink:href="#Fill"/>
-<mask height="252" id="StrokeMask" maskUnits="userSpaceOnUse" width="180" x="0" y="0">
-<rect fill="#000000" height="252" stroke="none" width="180" x="0" y="0"/>
-<use fill="#ffffff" fill-rule="evenodd" stroke="none" xlink:href="#Fill"/>
-</mask>
-<use fill="none" mask="url(#StrokeMask)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" xlink:href="#Fill"/>
-</g>
+<path d="M16 0L164 0C172.837 0 180 7.16344 180 16L180 236C180 244.837 172.837 252 164 252L16 252C7.16344 252 0 244.837 0 236L0 16C0 7.16344 7.16344 0 16 0Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M15 1L165 1C172.732 1 179 7.28814 179 15.0449L179 236.955C179 244.712 172.732 251 165 251L15 251C7.26801 251 1 244.712 1 236.955L1 15.0449C1 7.28814 7.26801 1 15 1Z" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
 </g>
 <g id="Layer-2" vectornator:layerName="Layer 2">
 <path clip-path="url(#TextBounds)" d="M16.3281 31.6562C16.3281 32.5938 16.8438 33.1562 17.6719 33.1562C18.5156 33.1562 19.0156 32.6094 19.0156 31.6562L19.0156 13.3438C19.0156 12.2812 18.3125 11.5469 17.3125 11.5469C16.7031 11.5469 16.1562 11.7812 15.1719 12.5156L12.0156 14.8594C11.3906 15.3125 11.0938 15.7344 11.0938 16.1875C11.0938 16.7812 11.5625 17.2656 12.1406 17.2656C12.4844 17.2656 12.8125 17.1406 13.2656 16.8125L16.2031 14.6719L16.3281 14.6719L16.3281 31.6562Z" fill="#000000" opacity="1" stroke="none"/>
